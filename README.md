@@ -4,7 +4,7 @@
  
  models, with a focus on logistic regression.
  
-     • In the first question, we will wrangle an dclean a dataset, ensuring it is properly formatted and ready for modeling.
+     • In the first question, we will wrangle and clean a dataset, ensuring it is properly formatted and ready for modeling.
      
      • In the second question, we will take a deeper look at logistic regression, learning how to fit the model and tune its hyperparameters using cross-validation.
      
